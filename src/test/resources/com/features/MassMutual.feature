@@ -14,7 +14,7 @@ Then All values should be greater than zero
 Scenario: verify the values are formatted as currencies
 Given user is on the screen
 When user verifies curriences symbols
-Then All the values should appear/display with Currency symbol
+Then All the values should appear/display with Currency symbol on the screen
 
 
 
